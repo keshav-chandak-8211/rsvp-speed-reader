@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.speedreader.app" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>RSVP Speed Reader</name>
+    <description>PDF RSVP Speed Reader with up to 2000 WPM capability</description>
+    <author email="dev@speedreader.app" href="https://speedreader.app">Developer</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
